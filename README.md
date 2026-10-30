@@ -87,4 +87,4 @@ static/        archivos estáticos (CSS)
 
 ## Autor
 
-**[Leandro Gómez]** — Proyecto Final Diplomatura Python — CoderHouse.
+**Leandro Gómez** — Proyecto Final Diplomatura Python — CoderHouse.
